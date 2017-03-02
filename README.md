@@ -48,7 +48,7 @@ Sample usage:
      pop-over-max-width="200"
      pop-over-content="{{ ::somethingSpecial}}"
      position="bottom">
-    Hover over me to see somethingSpecial in the popover.
+    Hover over me to see something special in the popover.
 </div>
 ```
 ```html
